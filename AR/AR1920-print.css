@@ -1,0 +1,13 @@
+@charset "utf-8";
+	
+@media print{
+	
+	.header-hgt135 {
+		height: auto;
+	}	
+	.div-print{
+		height:auto;
+	}
+} 	
+
+
