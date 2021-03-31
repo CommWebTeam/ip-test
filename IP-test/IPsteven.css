@@ -1,6 +1,6 @@
 @charset "utf-8";
 body {
-	background-image: url("/Documents/WET5/PL/IP/img/MainBackground.jpg");
+	background-image: url("https://commwebteam.github.io/ip-test/IP-test/img/MainBackground.jpg");
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
@@ -37,22 +37,22 @@ h1 {
 }
 
 .h1__icon1::before {
-  background: url("/Documents/WET5/PL/IP/img/Covid-Icons.png") top right no-repeat;
+  background: url("https://commwebteam.github.io/ip-test/IP-test/img/Covid-Icons.png") top right no-repeat;
   background-size: cover;
 }
 
 .h1__icon2::before {
-  background: url("/Documents/WET5/PL/IP/img/Prudential-Icons.png") top right no-repeat;
+  background: url("https://commwebteam.github.io/ip-test/IP-test/img/Prudential-Icons.png") top right no-repeat;
   background-size: cover;
 }
 
 .h1__icon3::before {
-  background: url("/Documents/WET5/PL/IP/img/Risk-Icons.png") top right no-repeat;
+  background: url("https://commwebteam.github.io/ip-test/IP-test/img/Risk-Icons.png") top right no-repeat;
   background-size: cover;
 }
 
 .h1__icon4::before {
-  background: url("/Documents/WET5/PL/IP/img/Corporate-Icons.png") top right no-repeat;
+  background: url("https://commwebteam.github.io/ip-test/IP-test/img/Corporate-Icons.png") top right no-repeat;
   background-size: cover;
 }
 
@@ -391,7 +391,7 @@ h8 {
 	content:"";
 	position:relative;
 	display:block;
-	background: url("/Documents/WET5/PL/IP/img/DSB-100-100px.png") no-repeat;
+	background: url("https://commwebteam.github.io/ip-test/IP-test/img/DSB-100-100px.png") no-repeat;
 	width:100px;
 	height:100px;
 	float:left;
@@ -429,21 +429,21 @@ h8 {
 }
 
 .articlebox-lg__full-background{
-	background: url("/Documents/WET5/PL/IP/img/Box-01-750px-160px-Covid-Text.jpg") no-repeat;
+	background: url("https://commwebteam.github.io/ip-test/IP-test/img/Box-01-750px-160px-Covid-Text.jpg") no-repeat;
 	background-size: contain;
 }
 
 .articlebox-lg__full-fr-background{
-	background: url("/Documents/WET5/PL/IP/img/Box-01-750px-160px-Covid-Text-fra.jpg") no-repeat;
+	background: url("https://commwebteam.github.io/ip-test/IP-test/img/Box-01-750px-160px-Covid-Text-fra.jpg") no-repeat;
 	background-size: contain;
 }
 
 .articlebox-lg__xs-background{
-	background: url("/Documents/WET5/PL/IP/img/Box-01-360px-160px-Covid-mobile.jpg") no-repeat;
+	background: url("https://commwebteam.github.io/ip-test/IP-test/img/Box-01-360px-160px-Covid-mobile.jpg") no-repeat;
 }
 
 .articlebox-lg__xs-fr-background{
-	background: url("/Documents/WET5/PL/IP/img/Box-01-360px-160px-Covid-mobile-fra.jpg") no-repeat;
+	background: url("https://commwebteam.github.io/ip-test/IP-test/img/Box-01-360px-160px-Covid-mobile-fra.jpg") no-repeat;
 }
 
 .articlebox-lg__full-font
@@ -478,27 +478,27 @@ h8 {
 }
 
 .articlebox-md__background1{
-	background: url("/Documents/WET5/PL/IP/img/Box-02-360px-330px-Prudential-policy-Text.jpg") no-repeat;
+	background: url("https://commwebteam.github.io/ip-test/IP-test/img/Box-02-360px-330px-Prudential-policy-Text.jpg") no-repeat;
 }
 
 .articlebox-md__fr-background1{
-	background: url("/Documents/WET5/PL/IP/img/Box-02-360px-330px-Prudential-policy-Text-fra.jpg") no-repeat;
+	background: url("https://commwebteam.github.io/ip-test/IP-test/img/Box-02-360px-330px-Prudential-policy-Text-fra.jpg") no-repeat;
 }
 
 .articlebox-md__background2{
-	background: url("/Documents/WET5/PL/IP/img/Box-03-360px-150px-Risk-Support-Text.jpg") no-repeat;
+	background: url("https://commwebteam.github.io/ip-test/IP-test/img/Box-03-360px-150px-Risk-Support-Text.jpg") no-repeat;
 }
 
 .articlebox-md__fr-background2{
-	background: url("/Documents/WET5/PL/IP/img/Box-03-360px-150px-Risk-Support-Text-fra.jpg") no-repeat;
+	background: url("https://commwebteam.github.io/ip-test/IP-test/img/Box-03-360px-150px-Risk-Support-Text-fra.jpg") no-repeat;
 }
 
 .articlebox-md__background3{
-	background: url("/Documents/WET5/PL/IP/img/Box-03-360px-150px-CorpoServ-Text.jpg") no-repeat;
+	background: url("https://commwebteam.github.io/ip-test/IP-test/img/Box-03-360px-150px-CorpoServ-Text.jpg") no-repeat;
 }
 
 .articlebox-md__fr-background3{
-	background: url("/Documents/WET5/PL/IP/img/Box-03-360px-150px-CorpoServ-Text-fra.jpg") no-repeat;
+	background: url("https://commwebteam.github.io/ip-test/IP-test/img/Box-03-360px-150px-CorpoServ-Text-fra.jpg") no-repeat;
 }
 
 .articlebox-sm{
